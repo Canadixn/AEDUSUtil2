@@ -30,6 +30,13 @@ AedusUtil's purpose is  to be a 2nd handed bot with more commands than our main 
 **How to install**
 1. https://gyazo.com/8a7f620ed5b435580e69418315f8368c
 
+2. 
+```json
+{
+  "token": "Your bot token.",
+  "prefix": "Your bot's prefix"
+}
+```
 
                                                                                                                                                                    
                                                                                                                                                                    
